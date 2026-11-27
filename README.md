@@ -67,10 +67,10 @@ The optimized XGBoost model achieved:
 
 ```bash
 # Clone this repository
-git clone https://github.com/faseehahmed26/World-Bank-Projects.git
+git clone https://github.com/samiahmed14/World-Bank-Project.git
 
 # Navigate to the project directory
-cd World-Bank-Projects
+cd World-Bank-Project
 
 # Install dependencies
 pip install -r requirements.txt
